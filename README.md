@@ -1,4 +1,4 @@
-# CURSO: FullStack NEXTJS & REACT
+# CURSO: FullStack NEXTJS & REACTJS
 
 #### :copyright: Por Gary Guzmán [GitHub](https://github.com/garyDav)
 
@@ -8,7 +8,7 @@
 
 ---
 
-##### Introducción
+### Introducción
 
 En el presente curso se desarrolló el proyecto **STORE-APP** con las siguientes tecnologías
 
@@ -16,7 +16,7 @@ En el presente curso se desarrolló el proyecto **STORE-APP** con las siguientes
 
 - ReactJS: Una biblioteca de JavaScript para construir interfaces de usuario dinámicas y declarativas, enfocada en componentes reutilizables y un estado eficiente.
 
-#### Requisitos
+### Requisitos
 
 Para el desarrollo del proyecto que integró NestJS y ReactJS, se utilizó una configuración y herramientas previamente instaladas, las versiones empleadas incluyeron:
 
@@ -32,7 +32,7 @@ Para el desarrollo del proyecto que integró NestJS y ReactJS, se utilizó una c
 
 - Git para control de versiones
 
-#### Instalación de dependencias
+### Instalación de dependencias
 
 - Para el proyecto backend `store-app` utilizar `npm install` (Recomendable).
 
